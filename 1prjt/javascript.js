@@ -14,7 +14,7 @@ document.querySelector('#search-icon').onclick=()=>{
 document.querySelector('#close').onclick=()=>{
     document.querySelector('#search-form').classList.remove('active');
 }
-var swiper = new Swiper(".home-slider", {
+var swiper = new Swiper(".swiper", {
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {

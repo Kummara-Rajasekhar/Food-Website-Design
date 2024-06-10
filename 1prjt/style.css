@@ -163,6 +163,10 @@ header .icons #menu-bars{
     top: 2rem; right: 3rem;
     font-size: 5rem;
 }
+.home{
+    padding-left: 16rem;
+    padding-top: 10rem;
+}
 .home .home-slider .slide{
     display: flex;
     align-items: center;

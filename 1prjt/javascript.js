@@ -5,7 +5,7 @@ menu.onclick=()=>{
     navbar.classList.toggle('active');
 }
 let section=document.querySelector('.section');
-let navLinks=document.querySelector('header .navber a');
+let navLinks=document.querySelector('header .navbar a');
 window.onscroll=()=>{
 
     menu.classList.remove('fa-times');
